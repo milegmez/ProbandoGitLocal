@@ -1,5 +1,8 @@
 h1{
-background:rgb(red, green, blue)
+background:rgb(245, 85, 138);
+text-align: center;
+}
 
-
+p{
+color: rgb(187, 119, 255);
 }
